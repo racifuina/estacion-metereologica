@@ -14,6 +14,7 @@ Este proyecto permite obtener informacion de sensores, conectados a un Arduino U
 
 Sensor utilizado para medir la temperatura y humedad relativa del ambiente.
 
+
 ### Soil Moisture Sensor
 
 Sensor utilizado para medir la humedad del suelo.
