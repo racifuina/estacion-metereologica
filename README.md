@@ -20,4 +20,4 @@ Sensor utilizado para medir la humedad del suelo.
 
 ### HC-SR04
 
-Sensor utilizado para medir la altura del agua en la pila.
+Sensor utilizado para medir la nivel o altura del agua en la pila.
